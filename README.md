@@ -77,7 +77,7 @@ Medical-Diagnosis-Using-AI/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/medical-diagnosis-using-ai.git
+git clone https://github.com/SHIVASRIRAM2004/medical-diagnosis-using-ai.git
 cd medical-diagnosis-using-ai
 ```
 
@@ -106,8 +106,8 @@ Each disease has a dedicated Jupyter Notebook with:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your-email@gmail.com
+- GitHub: [@SHIVASRIRAM2004](https://github.com/SHIVASRIRAM2004)
+- Email: shivaaa2004@gmail.com
 
 ---
 
